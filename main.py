@@ -11,6 +11,17 @@ from call_function import available_functions, call_function
 from config import MAX_ITERS
 from prompts import system_prompt
 
+# Things to try!
+#
+# Fix harder and more complex bugs
+# Refactor sections of code
+# Add entirely new features
+# You can also try:
+#
+# Other LLM providers
+# Other Gemini models
+# Giving it more functions to call
+# Other codebases (commit your changes before running the agent on a codebase, so you can always revert!)
 
 
 def main():
